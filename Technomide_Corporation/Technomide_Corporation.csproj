@@ -1,0 +1,547 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B62F982A-B954-4C1C-BBD3-053CBACFFECC}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Technomide_Corporation</RootNamespace>
+    <AssemblyName>Technomide_Corporation</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="FlatButton">
+      <HintPath>JControls\FlatButton.dll</HintPath>
+    </Reference>
+    <Reference Include="JDragControl">
+      <HintPath>JControls\JDragControl.dll</HintPath>
+    </Reference>
+    <Reference Include="JGradient Panel">
+      <HintPath>JControls\JGradient Panel.dll</HintPath>
+    </Reference>
+    <Reference Include="JImageButton">
+      <HintPath>JControls\JImageButton.dll</HintPath>
+    </Reference>
+    <Reference Include="JMaterialTextbox">
+      <HintPath>JControls\JMaterialTextbox.dll</HintPath>
+    </Reference>
+    <Reference Include="JMetroTextBox">
+      <HintPath>JControls\JMetroTextBox.dll</HintPath>
+    </Reference>
+    <Reference Include="JTextBox">
+      <HintPath>JControls\JTextBox.dll</HintPath>
+    </Reference>
+    <Reference Include="JTextBox2">
+      <HintPath>JControls\JTextBox2.dll</HintPath>
+    </Reference>
+    <Reference Include="JThinButton">
+      <HintPath>JControls\JThinButton.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="About_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="About_form.Designer.cs">
+      <DependentUpon>About_form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="About_Us_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="About_Us_Form.Designer.cs">
+      <DependentUpon>About_Us_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Add_Update_Attendance_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Add_Update_Attendance_Form.Designer.cs">
+      <DependentUpon>Add_Update_Attendance_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Add_Update_Expenses_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Add_Update_Expenses_Form.Designer.cs">
+      <DependentUpon>Add_Update_Expenses_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Add_Update_Income_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Add_Update_Income_Form.Designer.cs">
+      <DependentUpon>Add_Update_Income_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Add_Update_LoginInfo_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Add_Update_LoginInfo_Form.Designer.cs">
+      <DependentUpon>Add_Update_LoginInfo_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Add_Update_Withdrawal_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Add_Update_Withdrawal_Form.Designer.cs">
+      <DependentUpon>Add_Update_Withdrawal_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Attendance_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Attendance_Form.Designer.cs">
+      <DependentUpon>Attendance_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Consultants_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Consultants_Form.Designer.cs">
+      <DependentUpon>Consultants_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dashboard_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dashboard_form.Designer.cs">
+      <DependentUpon>Dashboard_form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Database_Connection.cs" />
+    <Compile Include="Employee_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Employee_Form.Designer.cs">
+      <DependentUpon>Employee_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ErrorHandling.cs" />
+    <Compile Include="Expense_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Expense_Form.Designer.cs">
+      <DependentUpon>Expense_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Income_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Income_form.Designer.cs">
+      <DependentUpon>Income_form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login_form.Designer.cs">
+      <DependentUpon>Login_form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login_Signup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login_Signup.Designer.cs">
+      <DependentUpon>Login_Signup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Manage_Designation_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Manage_Designation_Form.Designer.cs">
+      <DependentUpon>Manage_Designation_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Manage_EmployeeSkills_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Manage_EmployeeSkills_Form.Designer.cs">
+      <DependentUpon>Manage_EmployeeSkills_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Manage_EmployeeType_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Manage_EmployeeType_Form.Designer.cs">
+      <DependentUpon>Manage_EmployeeType_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Manage_Qualification_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Manage_Qualification_Form.Designer.cs">
+      <DependentUpon>Manage_Qualification_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Manage_Skills_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Manage_Skills_Form.Designer.cs">
+      <DependentUpon>Manage_Skills_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Model_Attendance.cs" />
+    <Compile Include="Model_Consultant.cs" />
+    <Compile Include="Model_Dashboard.cs" />
+    <Compile Include="Model_Employees.cs" />
+    <Compile Include="Model_Expenses.cs" />
+    <Compile Include="Model_Income.cs" />
+    <Compile Include="Model_LoginInfo.cs" />
+    <Compile Include="Model_Project.cs" />
+    <Compile Include="Model_Students.cs" />
+    <Compile Include="Model_Withdrawal.cs" />
+    <Compile Include="Owner_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Owner_Form.Designer.cs">
+      <DependentUpon>Owner_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Projects_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Projects_form.Designer.cs">
+      <DependentUpon>Projects_form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UC_Academy_Income_Data.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_Academy_Income_Data.Designer.cs">
+      <DependentUpon>UC_Academy_Income_Data.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_Attendance_Month_Data.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_Attendance_Month_Data.Designer.cs">
+      <DependentUpon>UC_Attendance_Month_Data.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_Attendance_Unmarked_Data.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_Attendance_Unmarked_Data.Designer.cs">
+      <DependentUpon>UC_Attendance_Unmarked_Data.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_Attendance_Marked_Data.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_Attendance_Marked_Data.Designer.cs">
+      <DependentUpon>UC_Attendance_Marked_Data.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_Consultant_Data.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_Consultant_Data.Designer.cs">
+      <DependentUpon>UC_Consultant_Data.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_Designation_Data.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_Designation_Data.Designer.cs">
+      <DependentUpon>UC_Designation_Data.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_EmployeeSkills_Data.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_EmployeeSkills_Data.Designer.cs">
+      <DependentUpon>UC_EmployeeSkills_Data.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_Employee_Data.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_Employee_Data.Designer.cs">
+      <DependentUpon>UC_Employee_Data.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_GroupBox.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_GroupBox.Designer.cs">
+      <DependentUpon>UC_GroupBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_Login_Info_Data.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_Login_Info_Data.Designer.cs">
+      <DependentUpon>UC_Login_Info_Data.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_Menu.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_Menu.Designer.cs">
+      <DependentUpon>UC_Menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_Modify.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_Modify.Designer.cs">
+      <DependentUpon>UC_Modify.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_Project_Data.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_Project_Data.Designer.cs">
+      <DependentUpon>UC_Project_Data.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_Project_Expense_Data.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_Project_Expense_Data.Designer.cs">
+      <DependentUpon>UC_Project_Expense_Data.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_Project_Income_Data.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_Project_Income_Data.Designer.cs">
+      <DependentUpon>UC_Project_Income_Data.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_Regular_Expense_Data.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_Regular_Expense_Data.Designer.cs">
+      <DependentUpon>UC_Regular_Expense_Data.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_Salary_Expense_Data.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_Salary_Expense_Data.Designer.cs">
+      <DependentUpon>UC_Salary_Expense_Data.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UC_Withdrawal_Data.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UC_Withdrawal_Data.Designer.cs">
+      <DependentUpon>UC_Withdrawal_Data.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Withdrawl_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Withdrawl_form.Designer.cs">
+      <DependentUpon>Withdrawl_form.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="About_form.resx">
+      <DependentUpon>About_form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="About_Us_Form.resx">
+      <DependentUpon>About_Us_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Add_Update_Attendance_Form.resx">
+      <DependentUpon>Add_Update_Attendance_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Add_Update_Expenses_Form.resx">
+      <DependentUpon>Add_Update_Expenses_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Add_Update_Income_Form.resx">
+      <DependentUpon>Add_Update_Income_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Add_Update_LoginInfo_Form.resx">
+      <DependentUpon>Add_Update_LoginInfo_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Add_Update_Withdrawal_Form.resx">
+      <DependentUpon>Add_Update_Withdrawal_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Attendance_Form.resx">
+      <DependentUpon>Attendance_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Consultants_Form.resx">
+      <DependentUpon>Consultants_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dashboard_form.resx">
+      <DependentUpon>Dashboard_form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Employee_Form.resx">
+      <DependentUpon>Employee_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Expense_Form.resx">
+      <DependentUpon>Expense_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Income_form.resx">
+      <DependentUpon>Income_form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login_form.resx">
+      <DependentUpon>Login_form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login_Signup.resx">
+      <DependentUpon>Login_Signup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Manage_Designation_Form.resx">
+      <DependentUpon>Manage_Designation_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Manage_EmployeeSkills_Form.resx">
+      <DependentUpon>Manage_EmployeeSkills_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Manage_EmployeeType_Form.resx">
+      <DependentUpon>Manage_EmployeeType_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Manage_Qualification_Form.resx">
+      <DependentUpon>Manage_Qualification_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Manage_Skills_Form.resx">
+      <DependentUpon>Manage_Skills_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Owner_Form.resx">
+      <DependentUpon>Owner_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Projects_form.resx">
+      <DependentUpon>Projects_form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="UC_Academy_Income_Data.resx">
+      <DependentUpon>UC_Academy_Income_Data.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_Attendance_Month_Data.resx">
+      <DependentUpon>UC_Attendance_Month_Data.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_Attendance_Unmarked_Data.resx">
+      <DependentUpon>UC_Attendance_Unmarked_Data.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_Attendance_Marked_Data.resx">
+      <DependentUpon>UC_Attendance_Marked_Data.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_Consultant_Data.resx">
+      <DependentUpon>UC_Consultant_Data.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_Designation_Data.resx">
+      <DependentUpon>UC_Designation_Data.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_EmployeeSkills_Data.resx">
+      <DependentUpon>UC_EmployeeSkills_Data.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_Employee_Data.resx">
+      <DependentUpon>UC_Employee_Data.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_GroupBox.resx">
+      <DependentUpon>UC_GroupBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_Login_Info_Data.resx">
+      <DependentUpon>UC_Login_Info_Data.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_Menu.resx">
+      <DependentUpon>UC_Menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_Modify.resx">
+      <DependentUpon>UC_Modify.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_Project_Data.resx">
+      <DependentUpon>UC_Project_Data.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_Project_Expense_Data.resx">
+      <DependentUpon>UC_Project_Expense_Data.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_Project_Income_Data.resx">
+      <DependentUpon>UC_Project_Income_Data.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_Regular_Expense_Data.resx">
+      <DependentUpon>UC_Regular_Expense_Data.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_Salary_Expense_Data.resx">
+      <DependentUpon>UC_Salary_Expense_Data.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UC_Withdrawal_Data.resx">
+      <DependentUpon>UC_Withdrawal_Data.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Withdrawl_form.resx">
+      <DependentUpon>Withdrawl_form.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\proj.png" />
+    <None Include="Resources\owner.png" />
+    <None Include="Resources\employee.png" />
+    <None Include="Resources\cons.png" />
+    <None Include="Resources\login.bmp" />
+    <None Include="Resources\Delete1.png" />
+    <None Include="Resources\Delete.jpg" />
+    <None Include="Resources\Add.jpg" />
+    <None Include="Resources\Update.png" />
+    <None Include="bin\Debug\Images\Users-Group-icon.png" />
+    <None Include="bin\Debug\Images\Project-icon.png" />
+    <None Include="bin\Debug\Images\ongoing_projects.png" />
+    <None Include="bin\Debug\Images\total_projects.jpg" />
+    <None Include="bin\Debug\Images\unmarked_attendance.png" />
+    <None Include="bin\Debug\Images\completed_project.png" />
+    <None Include="bin\Debug\Images\expenses.png" />
+    <None Include="bin\Debug\Images\incomeicon.png" />
+    <None Include="bin\Debug\Images\marked_Attendance.png" />
+    <Content Include="images\Add.jpg" />
+    <Content Include="images\Delete.jpg" />
+    <Content Include="images\Delete1.png" />
+    <Content Include="images\Person.png" />
+    <Content Include="images\Project-icon.png" />
+    <Content Include="images\Update.png" />
+    <Content Include="images\Users-Group-icon.png" />
+    <None Include="bin\Debug\Images\Login-in-icon.png" />
+    <None Include="bin\Debug\Images\Money-2-icon.png" />
+    <None Include="bin\Debug\Images\Tech.jpg" />
+    <None Include="bin\Debug\Images\Burger_Menu.png" />
+    <None Include="bin\Debug\Images\Cash-register-icon.png" />
+    <None Include="bin\Debug\Images\Coins-icon.png" />
+    <None Include="bin\Debug\Images\images %281%29.jpg" />
+    <None Include="bin\Debug\Images\images.jpg" />
+    <None Include="bin\Debug\Images\employee.png" />
+    <None Include="bin\Debug\Images\project.png" />
+    <None Include="bin\Debug\Images\attendance.png" />
+    <None Include="bin\Debug\Images\Bank-icon.png" />
+    <None Include="bin\Debug\Images\about.png" />
+    <None Include="bin\Debug\Images\home-icon.png" />
+    <Content Include="images\about.png" />
+    <Content Include="images\attendance.png" />
+    <Content Include="images\Bank-icon.png" />
+    <Content Include="images\Burger_Menu.png" />
+    <Content Include="images\Cash-register-icon.png" />
+    <Content Include="images\Coins-icon.png" />
+    <Content Include="images\employee.png" />
+    <Content Include="images\home-icon.png" />
+    <Content Include="images\images %281%29.jpg" />
+    <Content Include="images\images.jpg" />
+    <Content Include="images\Login-in-icon.png" />
+    <Content Include="images\Money-2-icon.png" />
+    <Content Include="images\Tech.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Classes\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

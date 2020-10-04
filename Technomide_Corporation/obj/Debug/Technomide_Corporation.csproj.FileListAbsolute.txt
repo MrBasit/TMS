@@ -1,0 +1,120 @@
+c:\users\technomide\documents\visual studio 2015\Projects\Technomide_Corporation\Technomide_Corporation\bin\Debug\Technomide_Corporation.exe.config
+c:\users\technomide\documents\visual studio 2015\Projects\Technomide_Corporation\Technomide_Corporation\bin\Debug\Technomide_Corporation.exe
+c:\users\technomide\documents\visual studio 2015\Projects\Technomide_Corporation\Technomide_Corporation\bin\Debug\Technomide_Corporation.pdb
+c:\users\technomide\documents\visual studio 2015\Projects\Technomide_Corporation\Technomide_Corporation\obj\Debug\Technomide_Corporation.csprojResolveAssemblyReference.cache
+c:\users\technomide\documents\visual studio 2015\Projects\Technomide_Corporation\Technomide_Corporation\obj\Debug\Technomide_Corporation.Form1.resources
+c:\users\technomide\documents\visual studio 2015\Projects\Technomide_Corporation\Technomide_Corporation\obj\Debug\Technomide_Corporation.Properties.Resources.resources
+c:\users\technomide\documents\visual studio 2015\Projects\Technomide_Corporation\Technomide_Corporation\obj\Debug\Technomide_Corporation.csproj.GenerateResource.Cache
+c:\users\technomide\documents\visual studio 2015\Projects\Technomide_Corporation\Technomide_Corporation\obj\Debug\Technomide_Corporation.exe
+c:\users\technomide\documents\visual studio 2015\Projects\Technomide_Corporation\Technomide_Corporation\obj\Debug\Technomide_Corporation.pdb
+c:\users\technomide\documents\visual studio 2015\Projects\Technomide_Corporation\Technomide_Corporation\obj\Debug\Technomide_Corporation.Expence_Form.resources
+c:\users\technomide\documents\visual studio 2015\Projects\Technomide_Corporation\Technomide_Corporation\obj\Debug\Technomide_Corporation.Attendance_Form.resources
+C:\Users\technomide\Documents\Visual Studio 2015\Projects\Technomide_Corporation\Technomide_Corporation\obj\Debug\Technomide_Corporation.Login_Signup.resources
+C:\Users\technomide\Documents\Visual Studio 2015\Projects\Technomide_Corporation\Technomide_Corporation\obj\Debug\Technomide_Corporation.UC_Menu.resources
+C:\Users\technomide\Documents\Visual Studio 2015\Projects\Technomide_Corporation\Technomide_Corporation\obj\Debug\Technomide_Corporation.Owner_Form.resources
+C:\Users\technomide\Documents\Visual Studio 2015\Projects\Technomide_Corporation\Technomide_Corporation\obj\Debug\Technomide_Corporation.Consultants_Form.resources
+C:\Users\technomide\Documents\Visual Studio 2015\Projects\Technomide_Corporation\Technomide_Corporation\obj\Debug\Technomide_Corporation.Dashboard_form.resources
+C:\Users\technomide\Documents\Visual Studio 2015\Projects\Technomide_Corporation\Technomide_Corporation\obj\Debug\Technomide_Corporation.Employee_Form.resources
+C:\Users\technomide\Documents\Visual Studio 2015\Projects\Technomide_Corporation\Technomide_Corporation\obj\Debug\Technomide_Corporation.Income_form.resources
+C:\Users\technomide\Documents\Visual Studio 2015\Projects\Technomide_Corporation\Technomide_Corporation\obj\Debug\Technomide_Corporation.Login_form.resources
+C:\Users\technomide\Documents\Visual Studio 2015\Projects\Technomide_Corporation\Technomide_Corporation\obj\Debug\Technomide_Corporation.Projects_form.resources
+C:\Users\technomide\Documents\Visual Studio 2015\Projects\Technomide_Corporation\Technomide_Corporation\obj\Debug\Technomide_Corporation.Withdrawl_form.resources
+C:\Users\technomide\Documents\Visual Studio 2015\Projects\Technomide_Corporation\Technomide_Corporation\obj\Debug\Technomide_Corporation.About_form.resources
+D:\TMS\Technomide_Corporation\bin\Debug\Technomide_Corporation.exe.config
+D:\TMS\Technomide_Corporation\obj\Debug\Technomide_Corporation.exe
+D:\TMS\Technomide_Corporation\obj\Debug\Technomide_Corporation.pdb
+D:\TMS\Technomide_Corporation\bin\Debug\Technomide_Corporation.exe
+D:\TMS\Technomide_Corporation\bin\Debug\Technomide_Corporation.pdb
+D:\TMS\Technomide_Corporation\obj\Debug\Technomide_Corporation.About_form.resources
+D:\TMS\Technomide_Corporation\obj\Debug\Technomide_Corporation.Attendance_Form.resources
+D:\TMS\Technomide_Corporation\obj\Debug\Technomide_Corporation.Consultants_Form.resources
+D:\TMS\Technomide_Corporation\obj\Debug\Technomide_Corporation.Dashboard_form.resources
+D:\TMS\Technomide_Corporation\obj\Debug\Technomide_Corporation.Employee_Form.resources
+D:\TMS\Technomide_Corporation\obj\Debug\Technomide_Corporation.Expence_Form.resources
+D:\TMS\Technomide_Corporation\obj\Debug\Technomide_Corporation.Income_form.resources
+D:\TMS\Technomide_Corporation\obj\Debug\Technomide_Corporation.Login_form.resources
+D:\TMS\Technomide_Corporation\obj\Debug\Technomide_Corporation.Login_Signup.resources
+D:\TMS\Technomide_Corporation\obj\Debug\Technomide_Corporation.Owner_Form.resources
+D:\TMS\Technomide_Corporation\obj\Debug\Technomide_Corporation.Projects_form.resources
+D:\TMS\Technomide_Corporation\obj\Debug\Technomide_Corporation.Properties.Resources.resources
+D:\TMS\Technomide_Corporation\obj\Debug\Technomide_Corporation.UC_Menu.resources
+D:\TMS\Technomide_Corporation\obj\Debug\Technomide_Corporation.Withdrawl_form.resources
+D:\TMS\Technomide_Corporation\obj\Debug\Technomide_Corporation.csproj.GenerateResource.Cache
+D:\TMS\Technomide_Corporation\obj\Debug\Technomide_Corporation.UC_GroupBox.resources
+C:\Users\technomide\Desktop\TMS\Technomide_Corporation\bin\Debug\Technomide_Corporation.exe.config
+C:\Users\technomide\Desktop\TMS\Technomide_Corporation\obj\Debug\Technomide_Corporation.exe
+C:\Users\technomide\Desktop\TMS\Technomide_Corporation\obj\Debug\Technomide_Corporation.pdb
+C:\Users\technomide\Desktop\TMS\Technomide_Corporation\obj\Debug\Technomide_Corporation.csprojResolveAssemblyReference.cache
+C:\Users\technomide\Desktop\TMS\Technomide_Corporation\obj\Debug\Technomide_Corporation.About_form.resources
+C:\Users\technomide\Desktop\TMS\Technomide_Corporation\obj\Debug\Technomide_Corporation.Attendance_Form.resources
+C:\Users\technomide\Desktop\TMS\Technomide_Corporation\obj\Debug\Technomide_Corporation.Consultants_Form.resources
+C:\Users\technomide\Desktop\TMS\Technomide_Corporation\obj\Debug\Technomide_Corporation.Dashboard_form.resources
+C:\Users\technomide\Desktop\TMS\Technomide_Corporation\obj\Debug\Technomide_Corporation.Employee_Form.resources
+C:\Users\technomide\Desktop\TMS\Technomide_Corporation\obj\Debug\Technomide_Corporation.Expence_Form.resources
+C:\Users\technomide\Desktop\TMS\Technomide_Corporation\obj\Debug\Technomide_Corporation.Income_form.resources
+C:\Users\technomide\Desktop\TMS\Technomide_Corporation\obj\Debug\Technomide_Corporation.Login_form.resources
+C:\Users\technomide\Desktop\TMS\Technomide_Corporation\obj\Debug\Technomide_Corporation.Login_Signup.resources
+C:\Users\technomide\Desktop\TMS\Technomide_Corporation\obj\Debug\Technomide_Corporation.Owner_Form.resources
+C:\Users\technomide\Desktop\TMS\Technomide_Corporation\obj\Debug\Technomide_Corporation.Projects_form.resources
+C:\Users\technomide\Desktop\TMS\Technomide_Corporation\obj\Debug\Technomide_Corporation.Properties.Resources.resources
+C:\Users\technomide\Desktop\TMS\Technomide_Corporation\obj\Debug\Technomide_Corporation.UC_GroupBox.resources
+C:\Users\technomide\Desktop\TMS\Technomide_Corporation\obj\Debug\Technomide_Corporation.UC_Menu.resources
+C:\Users\technomide\Desktop\TMS\Technomide_Corporation\obj\Debug\Technomide_Corporation.Withdrawl_form.resources
+C:\Users\technomide\Desktop\TMS\Technomide_Corporation\obj\Debug\Technomide_Corporation.csproj.GenerateResource.Cache
+C:\Users\technomide\Desktop\TMS\Technomide_Corporation\bin\Debug\Technomide_Corporation.exe
+C:\Users\technomide\Desktop\TMS\Technomide_Corporation\bin\Debug\Technomide_Corporation.pdb
+F:\TMS\Technomide_Corporation\bin\Debug\Technomide_Corporation.exe.config
+F:\TMS\Technomide_Corporation\obj\Debug\Technomide_Corporation.exe
+F:\TMS\Technomide_Corporation\obj\Debug\Technomide_Corporation.pdb
+C:\Users\technomide\Desktop\Haris Work\TMS\Technomide_Corporation\bin\Debug\Technomide_Corporation.exe.config
+C:\Users\technomide\Desktop\Haris Work\TMS\Technomide_Corporation\bin\Debug\Technomide_Corporation.exe
+C:\Users\technomide\Desktop\Haris Work\TMS\Technomide_Corporation\bin\Debug\Technomide_Corporation.pdb
+C:\Users\technomide\Desktop\Haris Work\TMS\Technomide_Corporation\obj\Debug\Technomide_Corporation.csprojResolveAssemblyReference.cache
+C:\Users\technomide\Desktop\Haris Work\TMS\Technomide_Corporation\obj\Debug\Technomide_Corporation.About_form.resources
+C:\Users\technomide\Desktop\Haris Work\TMS\Technomide_Corporation\obj\Debug\Technomide_Corporation.About_Us_Form.resources
+C:\Users\technomide\Desktop\Haris Work\TMS\Technomide_Corporation\obj\Debug\Technomide_Corporation.Add_Update_Expenses_Form.resources
+C:\Users\technomide\Desktop\Haris Work\TMS\Technomide_Corporation\obj\Debug\Technomide_Corporation.Add_Update_Income_Form.resources
+C:\Users\technomide\Desktop\Haris Work\TMS\Technomide_Corporation\obj\Debug\Technomide_Corporation.Add_Update_LoginInfo_Form.resources
+C:\Users\technomide\Desktop\Haris Work\TMS\Technomide_Corporation\obj\Debug\Technomide_Corporation.Add_Update_Withdrawal_Form.resources
+C:\Users\technomide\Desktop\Haris Work\TMS\Technomide_Corporation\obj\Debug\Technomide_Corporation.Attendance_Form.resources
+C:\Users\technomide\Desktop\Haris Work\TMS\Technomide_Corporation\obj\Debug\Technomide_Corporation.Consultants_Form.resources
+C:\Users\technomide\Desktop\Haris Work\TMS\Technomide_Corporation\obj\Debug\Technomide_Corporation.Dashboard_form.resources
+C:\Users\technomide\Desktop\Haris Work\TMS\Technomide_Corporation\obj\Debug\Technomide_Corporation.Employee_Form.resources
+C:\Users\technomide\Desktop\Haris Work\TMS\Technomide_Corporation\obj\Debug\Technomide_Corporation.Expense_Form.resources
+C:\Users\technomide\Desktop\Haris Work\TMS\Technomide_Corporation\obj\Debug\Technomide_Corporation.Income_form.resources
+C:\Users\technomide\Desktop\Haris Work\TMS\Technomide_Corporation\obj\Debug\Technomide_Corporation.Login_form.resources
+C:\Users\technomide\Desktop\Haris Work\TMS\Technomide_Corporation\obj\Debug\Technomide_Corporation.Login_Signup.resources
+C:\Users\technomide\Desktop\Haris Work\TMS\Technomide_Corporation\obj\Debug\Technomide_Corporation.Owner_Form.resources
+C:\Users\technomide\Desktop\Haris Work\TMS\Technomide_Corporation\obj\Debug\Technomide_Corporation.Projects_form.resources
+C:\Users\technomide\Desktop\Haris Work\TMS\Technomide_Corporation\obj\Debug\Technomide_Corporation.Properties.Resources.resources
+C:\Users\technomide\Desktop\Haris Work\TMS\Technomide_Corporation\obj\Debug\Technomide_Corporation.UC_Academy_Income_Data.resources
+C:\Users\technomide\Desktop\Haris Work\TMS\Technomide_Corporation\obj\Debug\Technomide_Corporation.UC_Attendance_Unmarked_Data.resources
+C:\Users\technomide\Desktop\Haris Work\TMS\Technomide_Corporation\obj\Debug\Technomide_Corporation.UC_Attendance_Marked_Data.resources
+C:\Users\technomide\Desktop\Haris Work\TMS\Technomide_Corporation\obj\Debug\Technomide_Corporation.UC_Consultant_Data.resources
+C:\Users\technomide\Desktop\Haris Work\TMS\Technomide_Corporation\obj\Debug\Technomide_Corporation.UC_Employee_Data.resources
+C:\Users\technomide\Desktop\Haris Work\TMS\Technomide_Corporation\obj\Debug\Technomide_Corporation.UC_GroupBox.resources
+C:\Users\technomide\Desktop\Haris Work\TMS\Technomide_Corporation\obj\Debug\Technomide_Corporation.UC_Login_Info_Data.resources
+C:\Users\technomide\Desktop\Haris Work\TMS\Technomide_Corporation\obj\Debug\Technomide_Corporation.UC_Menu.resources
+C:\Users\technomide\Desktop\Haris Work\TMS\Technomide_Corporation\obj\Debug\Technomide_Corporation.UC_Modify.resources
+C:\Users\technomide\Desktop\Haris Work\TMS\Technomide_Corporation\obj\Debug\Technomide_Corporation.UC_Project_Data.resources
+C:\Users\technomide\Desktop\Haris Work\TMS\Technomide_Corporation\obj\Debug\Technomide_Corporation.UC_Project_Expense_Data.resources
+C:\Users\technomide\Desktop\Haris Work\TMS\Technomide_Corporation\obj\Debug\Technomide_Corporation.UC_Project_Income_Data.resources
+C:\Users\technomide\Desktop\Haris Work\TMS\Technomide_Corporation\obj\Debug\Technomide_Corporation.UC_Regular_Expense_Data.resources
+C:\Users\technomide\Desktop\Haris Work\TMS\Technomide_Corporation\obj\Debug\Technomide_Corporation.UC_Salary_Expense_Data.resources
+C:\Users\technomide\Desktop\Haris Work\TMS\Technomide_Corporation\obj\Debug\Technomide_Corporation.UC_Withdrawal_Data.resources
+C:\Users\technomide\Desktop\Haris Work\TMS\Technomide_Corporation\obj\Debug\Technomide_Corporation.Withdrawl_form.resources
+C:\Users\technomide\Desktop\Haris Work\TMS\Technomide_Corporation\obj\Debug\Technomide_Corporation.csproj.GenerateResource.Cache
+C:\Users\technomide\Desktop\Haris Work\TMS\Technomide_Corporation\obj\Debug\Technomide_Corporation.exe
+C:\Users\technomide\Desktop\Haris Work\TMS\Technomide_Corporation\obj\Debug\Technomide_Corporation.pdb
+C:\Users\technomide\Desktop\Haris Work\TMS\Technomide_Corporation\obj\Debug\Technomide_Corporation.UC_Attendance_Month_Data.resources
+C:\Users\technomide\Desktop\Haris Work\TMS\Technomide_Corporation\obj\Debug\Technomide_Corporation.Add_Update_Attendance_Form.resources
+C:\Users\technomide\Desktop\Haris Work\TMS\Technomide_Corporation\obj\Debug\Technomide_Corporation.Manage_Designation_Form.resources
+C:\Users\technomide\Desktop\Haris Work\TMS\Technomide_Corporation\obj\Debug\Technomide_Corporation.UC_Designation_Data.resources
+C:\Users\technomide\Desktop\Haris Work\TMS\Technomide_Corporation\obj\Debug\Technomide_Corporation.Manage_EmployeeType_Form.resources
+C:\Users\technomide\Desktop\Haris Work\TMS\Technomide_Corporation\obj\Debug\Technomide_Corporation.Manage_Skills_Form.resources
+C:\Users\technomide\Desktop\Haris Work\TMS\Technomide_Corporation\obj\Debug\Technomide_Corporation.Manage_Qualification_Form.resources
+C:\Users\technomide\Desktop\Haris Work\TMS\Technomide_Corporation\obj\Debug\Technomide_Corporation.Manage_EmployeeSkills_Form.resources
+C:\Users\technomide\Desktop\Haris Work\TMS\Technomide_Corporation\obj\Debug\Technomide_Corporation.UC_EmployeeSkills_Data.resources
+E:\technomide\SAT_3-10-20\TMS\Technomide_Corporation\bin\Debug\Technomide_Corporation.exe.config
+E:\technomide\SAT_3-10-20\TMS\Technomide_Corporation\obj\Debug\Technomide_Corporation.exe
+E:\technomide\SAT_3-10-20\TMS\Technomide_Corporation\obj\Debug\Technomide_Corporation.pdb
